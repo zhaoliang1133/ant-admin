@@ -1,0 +1,23 @@
+{
+  "name": "ant-admin",
+  "version": "1.0.0",
+  "description": "基于react的前端页面",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhaoliang1133/ant-admin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhaoliang1133/ant-admin/issues"
+  },
+  "homepage": "https://github.com/zhaoliang1133/ant-admin#readme",
+  "devDependencies": {
+    "umi": "^2.5.6"
+  }
+}
